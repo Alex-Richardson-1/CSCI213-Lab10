@@ -12,4 +12,4 @@ The Car class contains the following:
 	*a copy method
 	
 	
-[GitHub](https://mymaconweb.rmc.edu/ics)
+[MyMaconWeb](https://mymaconweb.rmc.edu/ics)
